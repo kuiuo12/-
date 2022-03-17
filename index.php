@@ -2,9 +2,9 @@
 <html lang="zh">
 
 <head>
-    <title>吃掉小鹿乃</title>
-    <meta itemprop="name" content="吃掉小鹿乃" />
-    <meta itemprop="description" content="新概念音游" />
+    <title>吃掉阿季</title>
+    <meta itemprop="name" content="吃掉阿季" />
+    <meta itemprop="description" content="生日快乐" />
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, width=device-width,target-densitydpi=device-dpi" />
     <link href="./static/index.css" rel="stylesheet" type="text/css">
@@ -53,9 +53,9 @@
                     <div class="dropdown">
                         <a class="btn btn-secondary btn-lg" href="javascript: void(0);" role="button" id="mode" data-bs-toggle="dropdown" aria-expanded="false">普通模式</a>
                         <ul class="dropdown-menu" aria-labelledby="mode">
-                            <li><a class="dropdown-item" onclick="changeMode(MODE_NORMAL)">普通模式</a></li>
-                            <li><a class="dropdown-item" onclick="changeMode(MODE_ENDLESS)">无尽模式</a></li>
-                            <li><a class="dropdown-item" onclick="changeMode(MODE_PRACTICE)">练习模式</a></li>
+                            <li><a class="dropdown-item" onclick="changeMode(MODE_NORMAL)">人玩的模式</a></li>
+                            <li><a class="dropdown-item" onclick="changeMode(MODE_ENDLESS)">不是人玩的模式</a></li>
+                            <li><a class="dropdown-item" onclick="changeMode(MODE_PRACTICE)">帮你做人的模式</a></li>
                         </ul>
                     </div>
 
@@ -74,7 +74,7 @@
                         <div class="input-group-prepend">
                             <span class="input-group-text" id="basic-addon1">标题</span>
                         </div>
-                        <input type="text" id="title" class="form-control" placeholder="吃掉小鹿乃">
+                        <input type="text" id="title" class="form-control" placeholder="吃掉阿季">
                     </div>
                     <div class="input-group mb-3">
                         <div class="input-group-prepend">
