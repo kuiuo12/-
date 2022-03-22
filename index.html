@@ -2,9 +2,9 @@
 <html lang="zh">
 
 <head>
-    <title>吃掉阿季</title>
-    <meta itemprop="name" content="吃掉阿季" />
-    <meta itemprop="description" content="生日快乐" />
+    <title>吃掉邵大鹅</title>
+    <meta itemprop="name" content="吃掉邵大鹅" />
+    <meta itemprop="description" content="吃掉邵大鹅" />
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, width=device-width,target-densitydpi=device-dpi" />
     <link href="./static/index.css" rel="stylesheet" type="text/css">
