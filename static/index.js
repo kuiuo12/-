@@ -465,10 +465,10 @@ const MODE_NORMAL = 1, MODE_ENDLESS = 2, MODE_PRACTICE = 3;
             SubmitResults();
         }
 
-        if (cps <= 5) return '阿季加油！';
-        if (cps <= 8) return '勇敢阿季，不怕困难！';
-        if (cps <= 10)  return '达达利亚在前方！';
-        if (cps <= 15) return '暴躁萝汉';
+        if (cps <= 5) return '这个于维馨就是逊啊！';
+        if (cps <= 8) return '还不戳嘛！';
+        if (cps <= 10)  return '我看你挺懂的哦！';
+        if (cps <= 15) return '您？';
         return '人？';
     }
 
